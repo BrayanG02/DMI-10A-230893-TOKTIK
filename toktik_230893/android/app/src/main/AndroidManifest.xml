@@ -1,4 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.example.toktik_230893">
+
+<uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="toktik_230893"
         android:name="${applicationName}"
