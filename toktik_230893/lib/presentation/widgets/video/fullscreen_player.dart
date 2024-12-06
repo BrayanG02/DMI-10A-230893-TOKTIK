@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-/* import 'package:toktik_230893/presentation/widgets/video/video_background.dart';
-import 'package:video_player/video_player.dart'; */
+import 'package:toktik_230893/presentation/widgets/video/video_background.dart';
+import 'package:video_player/video_player.dart';
 
 class FullScreenPlayer extends StatefulWidget {
 
