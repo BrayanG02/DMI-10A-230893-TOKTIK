@@ -1,4 +1,10 @@
 List<Map<String, dynamic>> videoPosts = [
+    {
+    'name': 'Resumen 6to simposio',
+    'videoUrl': 'assets/videos/simposio.mp4',
+    'likes': 23230,
+    'views': 1523,
+  },
   {
     'name': 'Segunda luna',
     'videoUrl': 'assets/videos/1.1.mp4',
