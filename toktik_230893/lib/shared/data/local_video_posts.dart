@@ -1,9 +1,15 @@
 List<Map<String, dynamic>> videoPosts = [
-    {
+  {
     'name': 'Resumen 6to simposio',
     'videoUrl': 'assets/videos/simposio.mp4',
     'likes': 23230,
     'views': 1523,
+  },
+  {
+    'name': 'Se siente el merry cristmas',
+    'videoUrl': 'assets/videos/yo.mp4',
+    'likes': 99999,
+    'views': 99999,
   },
   {
     'name': 'Segunda luna',
@@ -18,7 +24,7 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 1343,
   },
   {
-    'name': 'Lil Peep2',
+    'name': 'Lil Peep 2',
     'videoUrl': 'assets/videos/3.3.mp4',
     'likes': 21564320,
     'views': 123563,

@@ -3,7 +3,7 @@ package="com.example.toktik_230893">
 
 <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="TOKTIK"
+        android:label="TOKTIK_Brayan"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
